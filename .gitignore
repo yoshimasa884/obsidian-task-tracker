@@ -1,0 +1,14 @@
+# Obsidian設定ファイル
+.obsidian/cache
+.obsidian/workspace.json
+.obsidian/workspace
+.obsidian/workspace.json
+.trash/
+.DS_Store
+.idea
+.vscode
+
+# システムファイル
+.DS_Store
+Thumbs.db
+desktop.ini
